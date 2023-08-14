@@ -29,6 +29,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
                     
@@ -144,6 +145,22 @@ Committed to delivering high-quality software solutions that meet business needs
                     </ul>
                 </div>
             </section>
+
+            <hr class="m-0" />
+            <!-- Projects-->
+            <section class="resume-section" id="projects">
+                <div class="resume-section-content">
+                <h2 class="mb-5">Projects</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">CBOS (Core Back Office System)</h3>
+                            <div class="subheading mb-3">Technologies and Tools: .NET, SQL Server, Dapper, HTML, JQuery, Datatables, iTextSharp, CSS, Bootstrap, TFS.</div>
+                            <div>CBOS streamlines back-office tasks like settlements, clearances, record-keeping, compliance, and accounting. It ensures accuracy, compliance, and efficiency. With robust security features, it safeguards sensitive data. This solution also generates comprehensive reports, empowering informed decision-making. My role contributed to its successful implementation, enhancing our operational integrity and reliability.</div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
             <hr class="m-0" />
             <!-- Education-->
             <section class="resume-section" id="education">
