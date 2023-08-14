@@ -28,8 +28,8 @@
                 <ul class="navbar-nav">
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
                     
                 </ul>
@@ -98,6 +98,53 @@ Committed to delivering high-quality software solutions that meet business needs
                 </div>
             </section>
             <hr class="m-0" />
+            <!-- Skills-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Skills</h2>
+                    <div class="subheading mb-3">Programming Languages & Tools</div>
+                    <ul class="list-inline dev-icons">
+                        <li class="list-inline-item"><i title="Problem Solving" class="fas fa-cubes"></i></li>
+                        <li class="list-inline-item"><i title=".NET" class="fa fa-code"></i></li>
+                        <li class="list-inline-item"><i title="SQL Server" class="fa fa-database"></i></li>
+                        <li class="list-inline-item"><i title="Server Management" class="fa fa-solid fa-server"></i></li>
+                        <li class="list-inline-item"><i title="HTML" class="fa-brands fa-html5"></i></li>
+                        <li class="list-inline-item"><i title="CSS" class="fab fa-css3-alt"></i></li>
+                        <li class="list-inline-item"><i title="Terminal" class="fa-solid fa-terminal"></i></li>
+                        <li class="list-inline-item"><i title="C" class="fa-solid fa-c"></i></li>
+                        <li class="list-inline-item"><i title="Linux" class="fab fa-linux"></i></li>
+                        <li class="list-inline-item"><i title="Java" class="fab fa-java"></i></li>
+                        <li class="list-inline-item"><i title="PHP" class="fab fa-php"></i></li>
+                        <li class="list-inline-item"><i title="Google Searching" class="fab fa-google"></i></li>
+                        <li class="list-inline-item"><i title="Git" class="fa-brands fa-git"></i></li>
+                        <li class="list-inline-item"><i title="Cloud" class="fa-solid fa-cloud"></i></li>                     
+                    </ul>
+                    <div class="subheading mb-3">Workflow</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Planning and Design
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Development
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Testing & Debugging
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Optimization for performance
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Agile Development & Scrum
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <hr class="m-0" />
             <!-- Education-->
             <section class="resume-section" id="education">
                 <div class="resume-section-content">
@@ -128,53 +175,7 @@ Committed to delivering high-quality software solutions that meet business needs
                         <div class="flex-shrink-0"><span class="text-primary">2001 – 2012</span></div>
                     </div>
                 </div>
-            </section>
-            <hr class="m-0" />
-            <!-- Skills-->
-            <section class="resume-section" id="skills">
-                <div class="resume-section-content">
-                    <h2 class="mb-5">Skills</h2>
-                    <div class="subheading mb-3">Programming Languages & Tools</div>
-                    <ul class="list-inline dev-icons">
-                        <li class="list-inline-item"><i class="fa fa-code"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-solid fa-server"></i></li>
-                        <li class="list-inline-item"><i class="fa-brands fa-html5"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
-                        <li class="list-inline-item"><i class="fa-solid fa-terminal"></i></li>
-                        <li class="list-inline-item"><i class="fa-solid fa-c"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-linux"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-java"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-php"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-google"></i></li>
-                        <li class="list-inline-item"><i class="fa-brands fa-git"></i></li>
-                        <li class="list-inline-item"><i class="fa-solid fa-cloud"></i></li>
-                      
-                    </ul>
-                    <div class="subheading mb-3">Workflow</div>
-                    <ul class="fa-ul mb-0">
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Planning and Design
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Development
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Testing & Debugging
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Optimization for performance
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Agile Development & Scrum
-                        </li>
-                    </ul>
-                </div>
-            </section>
+            </section>           
             <hr class="m-0" />
             <!-- Interests-->
             <section class="resume-section" id="interests">
