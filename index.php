@@ -49,9 +49,7 @@
                         Senior Software Developer · Mumbai ·
                         <a href="mailto:name@email.com">mail@ashrafmansuri.in</a>
                     </div>
-                    <p class="lead mb-5">Highly skilled and dedicated .NET Developer with 4+ years of experience, seeking a challenging position where I can
-utilize my expertise in designing and developing robust applications, implementing new features, and resolving bugs.
-Committed to delivering high-quality software solutions that meet business needs and enhance user experiences.</p>
+                    <p class="lead mb-5">Highly skilled and dedicated Software Developer specializing in .NET technologies with 5+ years of experience, I thrive as a problem solver, utilizing my expertise to design and develop robust applications, introduce new features, and effectively address issues. My commitment lies in delivering top-notch software solutions that align with business requirements and elevate user experiences.</p>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/mansuriashraf/"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="https://github.com/ashrafmansuri"><i class="fab fa-github"></i></a>
@@ -104,9 +102,9 @@ Committed to delivering high-quality software solutions that meet business needs
                 <div class="resume-section-content">
                     <h2 class="mb-5">Skills</h2>
                     <div class="subheading mb-3">Programming Languages & Tools</div>
-                    <ul class="list-inline dev-icons">
-                        <li class="list-inline-item"><i title="Problem Solving" class="fas fa-cubes"></i></li>
+                    <ul class="list-inline dev-icons mb-5">
                         <li class="list-inline-item"><i title=".NET" class="fa fa-code"></i></li>
+                        <li class="list-inline-item"><i title="Problem Solving" class="fas fa-cubes"></i></li>
                         <li class="list-inline-item"><i title="SQL Server" class="fa fa-database"></i></li>
                         <li class="list-inline-item"><i title="Server Management" class="fa fa-solid fa-server"></i></li>
                         <li class="list-inline-item"><i title="HTML" class="fa-brands fa-html5"></i></li>
@@ -154,9 +152,29 @@ Committed to delivering high-quality software solutions that meet business needs
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">CBOS (Core Back Office System)</h3>
-                            <div class="subheading mb-3">Technologies and Tools: .NET, SQL Server, Dapper, HTML, JQuery, Datatables, iTextSharp, CSS, Bootstrap, TFS.</div>
-                            <div>CBOS streamlines back-office tasks like settlements, clearances, record-keeping, compliance, and accounting. It ensures accuracy, compliance, and efficiency. With robust security features, it safeguards sensitive data. This solution also generates comprehensive reports, empowering informed decision-making. My role contributed to its successful implementation, enhancing our operational integrity and reliability.</div>
+                            <div class="subheading mb-3">Technologies and Tools: .NET, SQL Server, Dapper, HTML, JQuery, Datatables, iTextSharp, CSS, Bootstrap, TFS, IIS.</div>
+                            <div>CBOS streamlines back-office tasks like settlements, clearances, record-keeping, compliance, and accounting. Ensuring precision, and efficiency, CBOS features robust security mechanism like Role-based Authorization and encypted data transfer for data protection. This solution also generates comprehensive reports, empowering informed decision-making. My role contributed to its successful developing, implementation, enhancing our operational integrity and reliability.</div>
                         </div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">f-CIS</h3>
+                            <div class="subheading mb-3">Technologies and Tools: .NET, SQL Server, HTML, Javascript, iTextSharp, CSS, IIS.</div>
+                            <div>f-CIS was designed from scratch to empower operational efficiency, this sophisticated inventory management system orchestrates seamless inventory tracking, financial report generation, and insightful analysis. Reinforced by robust security measures, it safeguards sensitive data. This system yeilds financial reports, leading the management to take informed critical choices. My contribution to its design, development and implementation enhances its operational reliability and financial insights.</div>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">College Management System</h3>
+                            <div class="subheading mb-3">Technologies and Tools: .NET, SQL Server, HTML, Javascript, CSS, DevExpress, IIS.</div>
+                            <div>This College Management System is a powerful solution that seamlessly handles diverse administrative functions. It efficiently manages accounting tasks like personnel salary calculations, student fee management and other day to day expenses. Additionally, it maintains an up-to-date student database, streamlines library operations, facilitates exam and result management, and offers communication tools for effective interaction with parents and students. This versatile software enhances efficiency, transparency, and organization across the institutions, contributing to a seamless academic experience.</div>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">...and many more!</h3>
+                            <div>In addition to the projects mentioned above, I have been deeply involved in numerous other projects spanning a variety of technologies.</div>
+                          </div>
                     </div>
                 </div>
             </section>
