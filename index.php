@@ -216,8 +216,8 @@
             <section class="resume-section" id="interests">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Interests</h2>
-                    <p>During my free time, I enjoy a variety of hobbies that help me see the world in different ways. I watch sci-fi and fantasy genre movies and television shows, read different kinds of books, play games, and find happiness in funny things. These hobbies show that I'm always eager to learn new stuff. </p>
-                    <p class="mb-0">Plus, I like exploring cafes and trying out tasty food. I spend a large amount of my free time exploring the latest technology advancements in the development world. These things show that I'm a curious person who keeps growing and can connect with others who like different things.</p>
+                    <p>During my spare moments, I engage in a diverse array of hobbies that enable me to perceive the world from multiple angles. I immerse myself in sci-fi and fantasy films and TV shows, delve into a variety of book genres, partake in gaming, and derive joy from humor. These hobbies signify my ongoing enthusiasm for learning novel concepts.</p>
+                    <p class="mb-0">In addition, I enjoy exploring cafes and indulging in flavorsome dishes. A significant portion of my free time is devoted to staying abreast of the latest technological advancements in the realm of development. These pursuits highlight my curious disposition, continuous evolution, and ability to connect with individuals who share varying interests.</p>
                 </div>
             </section>
             
