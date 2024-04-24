@@ -47,7 +47,7 @@
                     </h1>
                     <div class="subheading mb-5">
                         Senior Software Developer · Mumbai ·
-                        <a href="mailto:name@email.com">mail@ashrafmansuri.in</a>
+                        <a href="mailto:name@email.com">mail@ashrafmansuri.com</a>
                     </div>
                     <p class="lead mb-5">Highly skilled and dedicated Software Developer specializing in .NET technologies with 5+ years of experience, I thrive as a problem solver, utilizing my expertise to design and develop robust applications, introduce new features, and effectively address issues. My commitment lies in delivering top-notch software solutions that align with business requirements and elevate user experiences.</p>
                     <div class="social-icons">
